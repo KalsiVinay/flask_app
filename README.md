@@ -10,5 +10,5 @@
 
 ### World
 
-[repo](https://github.com/Lapetta/flask_app.git)
+[repo](https://github.com/KalsiVinay/flask_app.git)
 
